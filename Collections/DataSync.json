@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "INFINITY - Location 1",
+			"name": "INFINITY - Location one",
 			"id": "222e3853-ebc7-40ac-b5c5-69f39abd100e",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
@@ -22,7 +22,7 @@
 			"response": []
 		},
 		{
-			"name": "INFINITY - Location 2",
+			"name": "INFINITY - Location two",
 			"id": "289170a0-02c3-4c9a-ac65-490e6e260684",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
