@@ -1,0 +1,64 @@
+{
+	"info": {
+		"_postman_id": "1cf35776-8fda-461a-be7b-f030a1790427",
+		"name": "Data Sync - QA",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "INFINITY - Location 1",
+			"id": "222e3853-ebc7-40ac-b5c5-69f39abd100e",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": "https://target-crm-api-gateway-qa.azure-api.net/data-sync-api/customers/v2/892125"
+			},
+			"response": []
+		},
+		{
+			"name": "INFINITY - Location 2",
+			"id": "289170a0-02c3-4c9a-ac65-490e6e260684",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "https://target-crm-api-gateway-qa.azure-api.net/data-sync-api/customers/v2/892126"
+			},
+			"response": []
+		},
+		{
+			"name": "IDEAL - Location 1",
+			"id": "6754af33-83ad-4b47-86cc-59e6bf0833d7",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "https://target-crm-api-gateway-qa.azure-api.net/data-sync-api/customers/v2/892128"
+			},
+			"response": []
+		},
+		{
+			"name": "ASPEN - Location 1",
+			"id": "d4298eb8-7ceb-4de6-9d22-ece4e403b527",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "https://target-crm-api-gateway-qa.azure-api.net/data-sync-api/customers/v2/888462"
+			},
+			"response": []
+		}
+	]
+}
