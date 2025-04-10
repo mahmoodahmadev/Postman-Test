@@ -35,7 +35,7 @@
 			"response": []
 		},
 		{
-			"name": "IDEAL - Location 1",
+			"name": "IDEAL - Location one",
 			"id": "6754af33-83ad-4b47-86cc-59e6bf0833d7",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
@@ -48,7 +48,7 @@
 			"response": []
 		},
 		{
-			"name": "ASPEN - Location 1",
+			"name": "ASPEN - Location one",
 			"id": "d4298eb8-7ceb-4de6-9d22-ece4e403b527",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
