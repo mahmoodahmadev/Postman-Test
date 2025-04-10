@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "INFINITY - Location 1",
+			"name": "INFINITY - Location one",
 			"id": "85070bab-dcf1-4846-a0cf-5f9ebb1865e5",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
@@ -22,7 +22,7 @@
 			"response": []
 		},
 		{
-			"name": "INFINITY - Location 2",
+			"name": "INFINITY - Location two",
 			"id": "9690bac6-bee7-49b0-bfe1-a21c1525db33",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
@@ -35,7 +35,7 @@
 			"response": []
 		},
 		{
-			"name": "IDEAL - Location 1",
+			"name": "IDEAL - Location one",
 			"id": "b3b9ef65-6770-4d64-9f21-56b03de4d14c",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
@@ -48,7 +48,7 @@
 			"response": []
 		},
 		{
-			"name": "IDEAL - Location 2",
+			"name": "IDEAL - Location two",
 			"id": "04a75c51-1696-45c1-85bf-e1117925c4ae",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
@@ -61,7 +61,7 @@
 			"response": []
 		},
 		{
-			"name": "ASPEN - Location 1",
+			"name": "ASPEN - Location one",
 			"id": "d1f95931-d94a-4424-bd34-377120b8f5b1",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
@@ -74,7 +74,7 @@
 			"response": []
 		},
 		{
-			"name": "ASPEN - Location 2",
+			"name": "ASPEN - Location two",
 			"id": "9529aa79-9bfa-4b68-a181-b17c07255b90",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
@@ -87,7 +87,7 @@
 			"response": []
 		},
 		{
-			"name": "ASPEN - Location 3",
+			"name": "ASPEN - Location three",
 			"id": "94cd01ff-530a-44a4-9da7-55641e33055d",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
@@ -100,7 +100,7 @@
 			"response": []
 		},
 		{
-			"name": "ASPEN - Location 4",
+			"name": "ASPEN - Location four",
 			"id": "46b644ad-f169-485c-91f5-882389df1994",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
