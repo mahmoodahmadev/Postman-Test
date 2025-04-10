@@ -1,0 +1,116 @@
+{
+	"info": {
+		"_postman_id": "24d0c4a7-97b5-42b5-bf53-d2db93663ab4",
+		"name": "Data Sync - Prod",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "INFINITY - Location 1",
+			"id": "85070bab-dcf1-4846-a0cf-5f9ebb1865e5",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": "https://target-crm-api-gateway-prod.azure-api.net/data-sync-api/customers/v2/12425"
+			},
+			"response": []
+		},
+		{
+			"name": "INFINITY - Location 2",
+			"id": "9690bac6-bee7-49b0-bfe1-a21c1525db33",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "https://target-crm-api-gateway-prod.azure-api.net/data-sync-api/customers/v2/12426"
+			},
+			"response": []
+		},
+		{
+			"name": "IDEAL - Location 1",
+			"id": "b3b9ef65-6770-4d64-9f21-56b03de4d14c",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "https://target-crm-api-gateway-prod.azure-api.net/data-sync-api/customers/v2/12408"
+			},
+			"response": []
+		},
+		{
+			"name": "IDEAL - Location 2",
+			"id": "04a75c51-1696-45c1-85bf-e1117925c4ae",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "https://target-crm-api-gateway-prod.azure-api.net/data-sync-api/customers/v2/12410"
+			},
+			"response": []
+		},
+		{
+			"name": "ASPEN - Location 1",
+			"id": "d1f95931-d94a-4424-bd34-377120b8f5b1",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "https://target-crm-api-gateway-prod.azure-api.net/data-sync-api/customers/v2/16174"
+			},
+			"response": []
+		},
+		{
+			"name": "ASPEN - Location 2",
+			"id": "9529aa79-9bfa-4b68-a181-b17c07255b90",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "https://target-crm-api-gateway-prod.azure-api.net/data-sync-api/customers/v2/16175"
+			},
+			"response": []
+		},
+		{
+			"name": "ASPEN - Location 3",
+			"id": "94cd01ff-530a-44a4-9da7-55641e33055d",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "https://target-crm-api-gateway-prod.azure-api.net/data-sync-api/customers/v2/16176"
+			},
+			"response": []
+		},
+		{
+			"name": "ASPEN - Location 4",
+			"id": "46b644ad-f169-485c-91f5-882389df1994",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "https://target-crm-api-gateway-prod.azure-api.net/data-sync-api/customers/v2/16178"
+			},
+			"response": []
+		}
+	]
+}
